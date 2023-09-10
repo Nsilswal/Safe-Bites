@@ -222,7 +222,7 @@ struct ScannerView: View{
     }
     
     func detectLangauge(text: String, completion: @escaping (String?) -> Void) {
-        let apiKey = "AIzaSyAOWUpSrN46R6N20uZuc0H5GJJjWpimQc4"  // Replace with your actual API key.
+        let apiKey = "Your API Key Here"  // Replace with your actual API key.
         let apiUrl = "https://translation.googleapis.com/language/translate/v2/detect"
         
         let parameters: Parameters = [
@@ -247,7 +247,7 @@ struct ScannerView: View{
     
     func translateText(sourceText: String, targetLanguage: String, apiKey: String, completion: @escaping (String?) -> Void) {
         let apiUrl = "https://translation.googleapis.com/language/translate/v2"
-        let apiKey = "AIzaSyAOWUpSrN46R6N20uZuc0H5GJJjWpimQc4" // Replace with your actual API key.
+        let apiKey = "Your API Key Here" // Replace with your actual API key.
         
         let parameters: Parameters = [
             "q": sourceText,
@@ -283,7 +283,7 @@ struct ScannerView: View{
     
     func translateAllergens(targetLanguage: String, allergens: [String], completion: @escaping ([String]) -> Void) {
         var translatedAllergens: [String] = []
-        let apiKey = "AIzaSyAOWUpSrN46R6N20uZuc0H5GJJjWpimQc4"
+        let apiKey = "Your API Key Here"
         print("the detected language was ")
         print(targetLanguage)
         print("the allergens recieved were")
