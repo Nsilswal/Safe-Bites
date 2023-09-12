@@ -1,5 +1,5 @@
 Thank you so much for checking our project out! Below are some details on the motivation behind Safe Bites and how you can make and use it yourself.
-- Creators: Aarzu and Nirvan
+- Your creators: Aarzu and Nirvan
 
 # Inspirations
 I have struggled with food allergies my entire life, with some of my scariest memories being the aftermath of accidentally eating an almond or having a piece of shrimp on my plate. This trauma inhibits me from trying new foods. I, oftentimes, find myself in situations where friends offer me snacks, and I have to awkwardly say no since the ingredients will be in a language I can’t read. I know I have company, as 220 million people deal with food allergies, globally, and 40% of the world’s population is monolingual. Safe Bites can play a significant role in enhancing patient safety for individuals with known allergies and intolerances. By recognizing and scanning ingredient lists in any language, and cross-checking with the users’ sensitivities, Safe Bites can help prevent accidental exposure and allergic reactions, which can range from mild discomfort to life-threatening situations.
