@@ -1,3 +1,5 @@
+By: Aarzu and Nirvan
+
 # Inspirations
 I have struggled with food allergies my entire life, with some of my scariest memories being the aftermath of accidentally eating an almond or having a piece of shrimp on my plate. This trauma inhibits me from trying new foods. I, oftentimes, find myself in situations where friends offer me snacks, and I have to awkwardly say no since the ingredients will be in a language I can’t read. I know I have company, as 220 million people deal with food allergies, globally, and 40% of the world’s population is monolingual. Safe Bites can play a significant role in enhancing patient safety for individuals with known allergies and intolerances. By recognizing and scanning ingredient lists in any language, and cross-checking with the users’ sensitivities, Safe Bites can help prevent accidental exposure and allergic reactions, which can range from mild discomfort to life-threatening situations.
 # Learnings
@@ -10,4 +12,3 @@ While working on this project has been extremely rewarding, there were definitel
 If you want to try using Safe Bites for yourself, feel free to clone the repo locally and open up the project in Xcode. There you will have to install the Alamofire package and then input your own API key for using the Google Translate API. (Follow the directions here https://crmsupport.freshworks.com/en/support/solutions/articles/50000004404-google-translate-key ) Then simply build the project to an emulator or physical device and enjoy using our app!
 
 Thank you so much for checking our project out!
-- Aarzu and Nirvan
