@@ -1,4 +1,4 @@
-Thank you so much for checking our project out! Below are some details on the motivation behind Safe Bites and how you can make and use it yourself.
+Thank you so much for checking our project out ([demo video](https://www.youtube.com/watch?v=evU1T4tzB8Q))! Below are some details on the motivation behind Safe Bites and how you can make and use it yourself.
 - Your creators: Aarzu and Nirvan
 
 # Inspirations
