@@ -1,4 +1,5 @@
-By: Aarzu and Nirvan
+Thank you so much for checking our project out! Below are some details on the motivation behind Safe Bites and how you can make and use it yourself.
+- Aarzu and Nirvan
 
 # Inspirations
 I have struggled with food allergies my entire life, with some of my scariest memories being the aftermath of accidentally eating an almond or having a piece of shrimp on my plate. This trauma inhibits me from trying new foods. I, oftentimes, find myself in situations where friends offer me snacks, and I have to awkwardly say no since the ingredients will be in a language I can’t read. I know I have company, as 220 million people deal with food allergies, globally, and 40% of the world’s population is monolingual. Safe Bites can play a significant role in enhancing patient safety for individuals with known allergies and intolerances. By recognizing and scanning ingredient lists in any language, and cross-checking with the users’ sensitivities, Safe Bites can help prevent accidental exposure and allergic reactions, which can range from mild discomfort to life-threatening situations.
@@ -10,5 +11,3 @@ We built the project by defining our goals and breaking them down into subcompon
 While working on this project has been extremely rewarding, there were definitely several challenges that we faced. We both had minimal exposure to Swift, so there was a major learning curve. However, this reinforced our love for learning by doing. We also had instances where merging code was tedious, as XCode and Git do not mesh as well as we were anticipating. We had limited access to real-life testing, as almost all food products we identified on Duke’s campus had an English ingredient list, making it difficult for us to see if the translation component was working smoothly. We ended up making a few trips to different grocery stores to pick items that ended up being great test products. 
 # Building App For Yourself
 If you want to try using Safe Bites for yourself, feel free to clone the repo locally and open up the project in Xcode. There you will have to install the Alamofire package and then input your own API key for using the Google Translate API. (Follow the directions here https://crmsupport.freshworks.com/en/support/solutions/articles/50000004404-google-translate-key ) Then simply build the project to an emulator or physical device and enjoy using our app!
-
-Thank you so much for checking our project out!
